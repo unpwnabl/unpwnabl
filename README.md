@@ -6,7 +6,7 @@ I'm a IT student and programmer part-time, aspiring hacker. I make projects and 
 ### Technologies & Tools I use/know:
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=f59042)
 ![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=42f587)
-#### Languages I use/know:
+### Languages I use/know:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4287f5)
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=4287f5)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4287f5)
@@ -19,3 +19,4 @@ I'm a IT student and programmer part-time, aspiring hacker. I make projects and 
 
 ### Some of my projects:
 [![TODO.sh](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=TODO.sh&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
