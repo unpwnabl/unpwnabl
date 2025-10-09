@@ -19,7 +19,8 @@ I'm a IT student and programmer part-time, aspiring hacker. I make projects and 
 
 ### Some of my projects:
 
-[![Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=Game-Engine&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![TODO.sh](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=TODO.sh&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=Game-Engine&theme=github_dark)](https://github.com/unpwnabl/Game-Engine)
+[![TODO.sh](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=TODO.sh&theme=github_dark)](https://github.com/unpwnabl/TODO.sh)
+
 
 
