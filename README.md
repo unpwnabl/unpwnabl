@@ -21,6 +21,8 @@ I'm a IT student and programmer part-time, aspiring hacker. I make projects and 
 
 [![Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=Game-Engine&theme=github_dark)](https://github.com/unpwnabl/Game-Engine)
 [![TODO.sh](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=TODO.sh&theme=github_dark)](https://github.com/unpwnabl/TODO.sh)
+[![OverTheWire Natas Solutions](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=OverTheWire-Natas-Solutions&theme=github_dark)](https://github.com/unpwnabl/OverTheWire-Natas-Solutions)
+
 
 
 
